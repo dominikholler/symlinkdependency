@@ -1,0 +1,4 @@
+# golang.org/x/net v0.28.0
+## explicit; go 1.18
+golang.org/x/net/webdav
+golang.org/x/net/webdav/internal/xml
